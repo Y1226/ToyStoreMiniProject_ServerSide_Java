@@ -1,7 +1,3 @@
-Certainly! Here's the revised readme file without the Functionality part:
-
----
-
 # Toy Store Backend Project
 
 ## Overview
@@ -22,7 +18,3 @@ The requirement was to replace the C# backend of a full stack toy store project,
 ## Results
 
 I received a high mark for this project, demonstrating my proficiency in using Java for backend development and integrating it with a React frontend.
-
----
-
-This version retains the essential information while being concise.
